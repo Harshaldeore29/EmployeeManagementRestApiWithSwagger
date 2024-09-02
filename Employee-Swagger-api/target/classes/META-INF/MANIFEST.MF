@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: harsh
+Build-Jdk: 17.0.10
+Implementation-Title: Employee-Swagger-api
+Implementation-Version: 0.1
+Implementation-Vendor-Id: com.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Employee-Swagger-api
+Created-By: Maven Integration for Eclipse
+
