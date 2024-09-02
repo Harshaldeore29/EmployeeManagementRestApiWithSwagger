@@ -1,4 +1,3 @@
 # Employee-management-Swagger-api
 
-The Employee Management System is a RESTful API designed for managing employee records. It allows you to perform CRUD operations (Create, Read, Update, Delete) on employee data. The project includes Swagger for API documentation and interactive testing.
-
+This is a Java Spring Boot project designed for managing employee records. This project uses MySql as the database to store employee information and Maven as the build tool.
